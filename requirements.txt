@@ -1,0 +1,15 @@
+facenet-pytorch==2.5.2
+fvcore==0.1.5.post20211023
+wandb
+rtpt
+opencv-python
+pandas
+pytorch-fid==0.2.1
+scikit-learn==0.24.2
+yapf
+click 
+requests 
+tqdm 
+pyspng 
+ninja 
+imageio-ffmpeg==0.4.3
